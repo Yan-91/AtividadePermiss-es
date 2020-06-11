@@ -1,0 +1,13 @@
+C:\Users\yan\Documents\Aula13\bin\Debug\netcoreapp3.1\Aula13.exe
+C:\Users\yan\Documents\Aula13\bin\Debug\netcoreapp3.1\Aula13.deps.json
+C:\Users\yan\Documents\Aula13\bin\Debug\netcoreapp3.1\Aula13.runtimeconfig.json
+C:\Users\yan\Documents\Aula13\bin\Debug\netcoreapp3.1\Aula13.runtimeconfig.dev.json
+C:\Users\yan\Documents\Aula13\bin\Debug\netcoreapp3.1\Aula13.dll
+C:\Users\yan\Documents\Aula13\bin\Debug\netcoreapp3.1\Aula13.pdb
+C:\Users\yan\Documents\Aula13\obj\Debug\netcoreapp3.1\Aula13.csprojAssemblyReference.cache
+C:\Users\yan\Documents\Aula13\obj\Debug\netcoreapp3.1\Aula13.csproj.CoreCompileInputs.cache
+C:\Users\yan\Documents\Aula13\obj\Debug\netcoreapp3.1\Aula13.AssemblyInfoInputs.cache
+C:\Users\yan\Documents\Aula13\obj\Debug\netcoreapp3.1\Aula13.AssemblyInfo.cs
+C:\Users\yan\Documents\Aula13\obj\Debug\netcoreapp3.1\Aula13.dll
+C:\Users\yan\Documents\Aula13\obj\Debug\netcoreapp3.1\Aula13.pdb
+C:\Users\yan\Documents\Aula13\obj\Debug\netcoreapp3.1\Aula13.genruntimeconfig.cache
